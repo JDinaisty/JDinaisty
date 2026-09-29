@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Johnny De La Paz <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMy9/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1081C1&center=true&vCenter=true&width=600&lines=Ingeniero+de+Software+Backend;.NET+%7C+C%23+%7C+SQL+Server;Arquitectura+de+Software+Limpia;Construyendo+sistemas+escalables" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1081C1&center=true&vCenter=true&width=600&lines=Desarrollador+de+Software;.NET+%7C+C%23+%7C+SQL+Server;Arquitectura+de+Software+Limpia;Construyendo+sistemas+escalables" alt="Typing SVG" /></a>
 </p>
 
 ---
